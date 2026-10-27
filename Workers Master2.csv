@@ -1,0 +1,7 @@
+WorkerID,WorkerName,Role,MedicalClearanceStatus,MedicalExpiryDate,SCHADS_Level
+W001,Dennis Kirwa,Disability Support Lead,Valid,30/06/2027,Level 4.2
+W002,Sarah Jenkins,Occupational Health Specialist,Valid,15/01/2027,Level 5.1
+W003,Michael Chen,Disability Support Worker,Expired,1/10/2026,Level 3.1
+W004,Amara Okafor,WHS Site Coordinator,Valid,12/08/2027,Level 4.1
+W005,James Wilson,Disability Support Worker,Expired,20/09/2026,Level 3.2
+W006,Emma Taylor,Fatigue Management Specialist,Valid,18/04/2027,Level 5.2

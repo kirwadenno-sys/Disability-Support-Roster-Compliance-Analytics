@@ -1,0 +1,8 @@
+BookingID,ShiftID,CharterFlightCost,FlightStatus,ExceptionReason
+B5001,S1001,850,Confirmed,None
+B5002,S1002,620,Confirmed,None
+B5003,S1003,950,Cancelled,Expired Medical Clearance
+B5004,S1004,850,Confirmed,None
+B5005,S1005,620,Cancelled,Fatigue Rule Violation
+B5006,S1006,950,Confirmed,None
+B5007,S1007,850,Confirmed,None

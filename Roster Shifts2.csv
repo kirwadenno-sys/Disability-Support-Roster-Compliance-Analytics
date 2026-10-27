@@ -1,0 +1,8 @@
+ShiftID,WorkerID,SiteLocation,ShiftDate,ShiftHours,RestHoursPrior,SCHADS_BreachFlag
+S1001,W001,Solomon Hub Site A,20/10/2026,12,12,No
+S1002,W002,Karratha Care Centre,20/10/2026,12,11,No
+S1003,W003,Newman Village Ops,21/10/2026,12,8,Yes
+S1004,W004,Solomon Hub Site A,21/10/2026,10,14,No
+S1005,W005,Karratha Care Centre,22/10/2026,12,7,Yes
+S1006,W006,Newman Village Ops,22/10/2026,12,12,No
+S1007,W001,Solomon Hub Site A,23/10/2026,12,10,No
